@@ -14,3 +14,5 @@ JS pass value to generator - https://gist.github.com/ericelliott/890c20d18bcc436
 SSO - https://aws.amazon.com/cognito/  
 
 ECMarkup - https://bterlson.github.io/ecmarkup/
+
+`npx create-react-app my-app --template redux` - never forget this line
