@@ -16,3 +16,5 @@ SSO - https://aws.amazon.com/cognito/
 ECMarkup - https://bterlson.github.io/ecmarkup/
 
 `npx create-react-app my-app --template redux` - never forget this line
+
+Never forget `.env` in WSL/Docker while using `create-react-app`
