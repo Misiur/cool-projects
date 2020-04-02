@@ -17,4 +17,6 @@ ECMarkup - https://bterlson.github.io/ecmarkup/
 
 `npx create-react-app my-app --template redux` - never forget this line
 
-Never forget `.env` in WSL/Docker while using `create-react-app`
+Never forget `.env` in WSL/Docker while using `create-react-app`  
+
+Best form handler - https://github.com/react-hook-form/react-hook-form  
