@@ -20,3 +20,7 @@ ECMarkup - https://tc39.es/ecmarkup/
 Never forget `.env` in WSL/Docker while using `create-react-app`  
 
 Best form handler - https://github.com/react-hook-form/react-hook-form  
+
+RE:
+
+Cutter, radare2 GUI - https://cutter.re/
